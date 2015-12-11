@@ -2,7 +2,7 @@
   "name": "boron",
   "version": "0.1.2",
   "description": "A collection of dialog animations with React.js",
-  "main": "dist/boron.min.js",
+  "main": "Boron.js",
   "author": "Yuanyan Cao",
   "license": "MIT",
   "repository": {
